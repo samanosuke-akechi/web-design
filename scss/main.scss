@@ -48,7 +48,7 @@ li {
   height: size.$header-height;
   border-bottom: 1px solid black;
   background-color: white;
-  position: fixed;
+  position: fixed; // fixedは画面の決まった位置に固定する値
   display: flex;
   justify-content: space-between;
   align-items: center;
